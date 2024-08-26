@@ -1,0 +1,5 @@
+SITEURL=chat.accountingtech.co
+GITHUBREPO=git@github.com/Admin-Nexxess/ic.git
+GITBRANCH=main
+NODEPORT=3000
+OWNEREMAIL=ronnie@alphabethouse.com
